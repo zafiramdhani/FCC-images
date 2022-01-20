@@ -1,2 +1,2 @@
 # FCC-images
-Repository for hosting my image resources
+A Repository for hosting my image resources
